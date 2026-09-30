@@ -1,0 +1,8 @@
+{
+  "name": " Lector PDF y Notas",
+  "description": "App de notas y lectura PDF estilo Flexcil con visor dual, tienda de plantillas 100% gratuita, notas flotantes sin límite de archivo y sincronización con Windows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
