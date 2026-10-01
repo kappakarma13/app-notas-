@@ -4,14 +4,14 @@ import {
   flexcilDB, 
   createInitialSampleDocuments, 
   createInitialFolders 
-} from } from './src/services/db';
-import { LibraryView } from './components/LibraryView';
-import { ReaderWorkspace } from './components/ReaderWorkspace';
-import { StoreModal } from './components/StoreModal';
-import { WindowsSyncModal } from './components/WindowsSyncModal';
-import { NewNotebookModal } from './components/NewNotebookModal';
-import { MultiDeviceModal } from './components/MultiDeviceModal';
-import { PWAInstallButton } from './components/PWAInstallButton';
+} from './src/services/db';
+import { LibraryView } from './src/components/LibraryView';
+import { ReaderWorkspace } from './src/components/ReaderWorkspace';
+import { StoreModal } from './src/components/StoreModal';
+import { WindowsSyncModal } from './src/components/WindowsSyncModal';
+import { NewNotebookModal } from './src/components/NewNotebookModal';
+import { MultiDeviceModal } from './src/components/MultiDeviceModal';
+import { PWAInstallButton } from './src/components/PWAInstallButton';
 import { Radio } from 'lucide-react';
 
 export default function App() {
