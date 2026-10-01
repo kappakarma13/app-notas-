@@ -4,7 +4,7 @@ import {
   flexcilDB, 
   createInitialSampleDocuments, 
   createInitialFolders 
-} from './services/db';
+} from } from './src/services/db';
 import { LibraryView } from './components/LibraryView';
 import { ReaderWorkspace } from './components/ReaderWorkspace';
 import { StoreModal } from './components/StoreModal';
