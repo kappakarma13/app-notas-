@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { FlexcilDocument, FolderItem } from './types';
+import { FlexcilDocument, FolderItem } from './src/types';
 import { 
   flexcilDB, 
   createInitialSampleDocuments, 
